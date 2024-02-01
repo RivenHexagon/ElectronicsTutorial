@@ -1,4 +1,9 @@
 # Riven's Lectures on Electronics
+Upcoming Lecture Dates:
+* Tue 06.Feb 2024 - **Topic:** Voltage sources, what they really are!
+* Tue 05.Mar 2024 - **Topic:** *Ohm's Law* - finally!
+* Tue 12.Mar 2024 - **Topic:** TBD
+* Tue 02.Apr 2024 - **Topic:** TBD
 
 ## Understanding Electronics
 Most people I have met, including lecturers at universities, define the understanding of electronics as the **sum** of certain **rules** and **laws**, such as *Kirchhoff's circuit laws* or *Ohm's law*, where the latter can be seen as the E=mc<sup>2</sup> of electronics.

@@ -5,7 +5,7 @@
 **Upcoming Lecture Dates:**
 * Tue 06.Feb 2024 - **Topic:** Voltage sources - what they really are.
 * Tue 05.Mar 2024 - **Topic:** *Ohm's Law* and Power - let's get practical!
-* Tue 12.Mar 2024 - **Topic:** Diodes - let's get non-linear ~
+* Tue 12.Mar 2024 - **Topic:** Diodes ~ let's get non-linear.
 * Tue 02.Apr 2024 - **Topic:** TBD
 
 ## Understanding Electronics

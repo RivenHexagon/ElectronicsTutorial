@@ -23,7 +23,7 @@ Like before, let us draw a voltage indicator in form of an arrow left to our sou
 Remember last time, how we rearranged our arrows of source voltage and voltage drops? **V<sub>s</sub>** appeared to be parallel to the sum of the Voltage drops in the wires and the load resistor. But after a deft rearrangement we figured that the source is **opposing** the other voltages but is equal in magnitude! The same rule applies here. **V<sub>s</sub>** and **V<sub>0</sub>** are just **vectors** in an **one-dimensional** space that is curved back into itself - in form of a **closed loop**. Or in other words - a **circuit**. So mathematically we get **V<sub>s</sub>** = **V<sub>0</sub>** => **V<sub>s</sub>** - **V<sub>0</sub>** = 0 - quod erat demonstrandum!
 
 #### Tighten the Grip
-As allways, I would like to take a more intuitive approach to finalize this. Let us go back to our water circuit that consists of a pump and a water wheel connected to the pump by two pipes.
+As allways, I would like to take a more intuitive approach to finalize this. Let us go back to our water circuit that consists of a pump and a water wheel connected to the pump by two pipes. [...]
 
 
 

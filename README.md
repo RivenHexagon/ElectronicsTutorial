@@ -1,4 +1,5 @@
 # Riven's Lectures on Electronics
+### Free Knowledge for Free People
 **Previous Lecture Dates:**
 * Tue 23.Jan 2024 - **Topic:** Of water pumps and *Kirchhoff's Voltage Law*.
 

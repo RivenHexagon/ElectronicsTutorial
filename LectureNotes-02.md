@@ -23,9 +23,12 @@ Like before, let us draw a voltage indicator in form of an arrow left to our sou
 Remember last time, how we rearranged our arrows of source voltage and voltage drops? **V<sub>s</sub>** appeared to be parallel to the sum of the Voltage drops in the wires and the load resistor. But after a deft rearrangement we figured that the source is **opposing** the other voltages but is equal in magnitude! The same rule applies here. **V<sub>s</sub>** and **V<sub>0</sub>** are just **vectors** in an **one-dimensional** space that is curved back into itself - in form of a **closed loop**. Or in other words - a **circuit**. So mathematically we get **V<sub>s</sub>** = **V<sub>0</sub>** => **V<sub>s</sub>** - **V<sub>0</sub>** = 0 - quod erat demonstrandum!
 
 #### Tighten the Grip
-As allways, I would like to take a more intuitive approach to finalize this. Let us go back to our water circuit that consists of a pump and a water wheel connected to the pump by two pipes. [...]
+As always, I would like to take a more intuitive approach to completing this. Let's go back to our water circuit, which consists of a pump and a water wheel connected to the pump by two pipes. The water wheel sits so tightly in its housing that no water can pass through unless it is turning. When the pump is running, the water flows through the pipes and sets the water wheel in motion. Pressure drops occur along the pipes and on the water wheel.
 
+Now I grip the axle of the water wheel. The tighter I grip, the slower the water wheel becomes and the less water flows. The pressure drop in the pipes becomes smaller and smaller. What happens to the pressure drop across the water wheel? Well *Kirchoff* gives the answer. If the pump maintains a constant pressure, the pressure at the wheel must increase as the pressure drop across the pipes goes down due to the reduced flow. When I stop the wheel, the flow stops and the pressure drop across the pipes vanishes. Thus the pressure drop across the wheel **converges** with the pressure ceated by the pump. The open circuit therefore corresponds to the **limit transition** from the dynamic to the static case!
 
+### The Chain of Cause and Action
+[...]
 
 ## Types of Sources
 A **pump** can be designed in certain ways. Let's take a **hand-operated** pump for instance. It pumps water as long as I **turn** the **crank**. There is no **control** over **pressure** or **flow** of any kind. Of course flow rate and pressure **depend** on how **hard** I crank it. And that is just a **casual** for how much **power** I apply. But I do not keep track of one or the other.

@@ -39,7 +39,18 @@ The only thing left in the causality chain of our electrical circuit is the prop
 
 In a pumped storage hydro power station for instance, water is pumped uphill against the gravitational field. This way enectrical energy is converted to potential engery and stored. If electricity is needed, the water flows downhill and drives a turbine connected to an electrical generator. When we move the water uphill we spent energy. When we let it run downhill we gain it, since energy can neither be generated nor destroyed.
 
-But how can all this be applied to electrons? Let's just say that we have moved the electrons uphill against a certain field. But which field would that be? You've probably already guessed correctly - it's the **electric field**! But where does it emerge from?
+But how can all this be applied to electrons? Let's just say that we have moved the electrons uphill against a certain field. But which field would that be? You've probably already guessed correctly - it's the **electric field**! But where does it emerge from? Let us once more go back to the water model. When the pump is at rest, there is no pressure in the water circuit and no counterforce present to counteract the rotation of the pump. When the pump starts up, its rotation displaces the water molecules, which causes a pressure difference. And this is immediately noticeable through this counterforce. But there is no field involved.
+
+In electricity things are fundamentally different. First of all, in the case of electrons we talk about **separation of charge** instead of **displacement**. Let us then assume there is a phenomenon, that seperates the charges, or electrons respectively, inside a voltage source. They instantly will experience a counter force, just like the water molecules. But it is very different in origin.
+
+The moment we separate the electrons inside our voltage source, an electric field appears across its terminals. But where does it actually come from? Charged particles, like our negatively charged electrons, are **allways** surrounded by an electric field, that points radially outwards from the particle, like light rays emanating from a light source.
+
+The moment we separate the electrons in our voltage source, an electric field appears at its connections. But where does it actually come from? Charged particles, such as our negatively charged electrons, are always surrounded by an electric field that is directed radially outwards from the particle, like light rays emanating from a light source.
+
+We have already talked about electrical conductors in Lecture 1. In a copper wire, for example, the electrons are already present and fill the space between the copper atoms, almost like an electron gas. They can move relatively freely. This is because particles with the same charge repel each other. As they are always surrounded by their own electric field, they influence each other through their fields due to the fact that every electron is always in the field of every other electron in its vicinity. Therefore, they will move around randomly but they will not perform any directed movement. Unless we create an **imbalance** in their **spatial distribution**. And this is essentially what is meant by separation of charge.
+
+As mentioned earlier, we will then observe an electric field that **counteracts** this **imbalance** and tries to distribute them evenly again. If we maintain that imbalance while we connect an extermnal circuit, we crate a path for the electrons to escape from that area of increased charge density. The electric field will spread across the wires and drag the electrons towards the region of lower charge density, that corresponds to the opposite pole of the voltage source. A current flows through our circuit. 
+
 
 
 ## Types of Sources

@@ -48,12 +48,19 @@ The moment we separate the electrons in our voltage source, an electric field ap
 
 We have already talked about electrical conductors in Lecture 1. In a copper wire, for example, the electrons are already present and fill the space between the copper atoms. They can move relatively freely. As they are always surrounded by their own electric field, they influence each other through their fields due to the fact that every electron is always in the field of every other electron in its vicinity. Therefore, they spread evenly, almost like an electron gas, because particles with the same charge repel each other. But they will not perform any directed movement, unless we create an **imbalance** in their **spatial distribution**. And this is essentially what is meant by separation of charge.
 
-As mentioned earlier,  we will then observe an **outer** electric field that **counteracts** this **imbalance** and tries to distribute them evenly again. If we maintain that imbalance while we connect an extermnal circuit, we crate a path for the electrons to escape from that area of increased charge density. The electric field will spread across the wires and drag the electrons towards the region of lower charge density corresponding to the opposite pole of the voltage source. A current flows through our circuit!
+As mentioned earlier,  we will then observe an **outer** electric field that **counteracts** this **imbalance** and tries to distribute the electrons evenly again. If we maintain that imbalance and connect an extermnal circuit, we crate a path for the electrons to escape from that area of increased charge density. The electric field will spread across the wires and drag the electrons towards the region of lower charge density which corresponds to the opposite pole of the voltage source. A current flows through our circuit!
+
+### Methods of Charge Separation
+Gloss over briefly
+
+[...] But what kind of energy is needed? Well that depends on the method used to separate the charges. [...]
 
 ### Conclusion
-So inside a voltage source electrons are separated and moved against the electric field. One difference between pumping water uphill against the gravity field, is that they bring their **own** field with them. One similarity is that it takes energy to do it. Once done and a current flows through a circuit, the voltage source provides energy.
+So inside a voltage source electrons are separated and moved against the electric field. One **difference** between pumping water uphill against the gravity field is, that they bring their **own** field with them. One **similarity** is that it **takes** energy to do it. Once done and a current flows through a circuit, the voltage source **provides** energy.
 
-In a voltage source, the electrons are separated and moved against the electric field. One difference to water, which is pumped uphill against the gravitational field, is that the electrons bring their own field with them. One similarity is that energy is required for this. As soon as the electrons are constantly separated and a current flows through a circuit, the voltage source supplies energy.
+In a voltage source, the electrons are separated and moved against the electric field. One **difference** to water, which is pumped uphill against the gravitational field, is that the electrons bring their own field with them. One **similarity** is that energy is **required** for this. As soon as the electrons are constantly separated and a current flows through a circuit, the voltage source **supplies** energy to the circuit. Hence, it is an energy source that delivers electric energy.
+
+We can now draw two general conclusions: Firstly, every energy source simultaneously takes in and delivers energy. And secondly, the energy taken in is converted into the energy delivered. Every real energy source is therefore an energy converter.
 
 
 ## Types of Sources

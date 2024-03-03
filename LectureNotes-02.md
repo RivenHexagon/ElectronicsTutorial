@@ -46,31 +46,32 @@ In electricity things are fundamentally different. In the case of electrons we s
 
 The moment we separate the electrons in our voltage source, an electric field appears at its terminals. But where does it actually come from? Charged particles, such as our negatively charged electrons, are **always** surrounded by an electric field that is directed radially outwards from the particle, like light rays emanating from a light source.
 
-We have already talked about electrical conductors in Lecture 1. In a copper wire, for example, the electrons are already present and fill the space between the copper atoms. They can move relatively freely. As they are always surrounded by their own electric field, they influence each other through their fields due to the fact that every electron is always in the field of every other electron in its vicinity. Therefore, they spread evenly, almost like an electron gas, because particles with the same charge repel each other. But they will not perform any directed movement, unless we create an **imbalance** in their **spatial distribution**. And this is essentially what is meant by separation of charge.
+We have already talked about electrical conductors in *Lecture #1*. In a copper wire, for example, the electrons are already present and fill the space between the copper atoms. They can move relatively freely. As they are always surrounded by their own electric field, they influence each other through their fields due to the fact that every electron is always in the field of every other electron in its vicinity. Therefore, they spread evenly, almost like an electron gas, because particles with the same charge repel each other. But they will not perform any directed movement, unless we create an **imbalance** in their **spatial distribution**. And this is essentially what is meant by separation of charge.
 
 As mentioned earlier,  we will then observe an **outer** electric field that **counteracts** this **imbalance** and tries to distribute the electrons evenly again. If we maintain that imbalance and connect an extermnal circuit, we crate a path for the electrons to escape from that area of increased charge density. The electric field will spread across the wires and drag the electrons towards the region of lower charge density which corresponds to the opposite pole of the voltage source. A current flows through our circuit!
 
 ### Methods of Charge Separation
 <!--Gloss over briefly-->
-But how can electric charges be seperatet after all? There are multiple physical effects that influcence electrons inside of a conductor and even in free space. I will gloss over the most common and give some examples of practical application.
+But how can electric charges be seperatet after all? There are various physical effects that influcence electrons inside of a conductor and even in free space. I will gloss over the most common principals and give some examples of practical application, without going into details.
 
 > * Induction (electric generator)
+> * Electrochemical reactions (battery)
 > * Photo-electric effect (solar panel)
 > * Thermoelectric effect (temperature sensor, nuclear battery)
-> * Electrochemical reactions (battery)
 
 #### Induction
-bicycle dynamo
+Probably the most common way to generate electricity is the electric generator such as the bicycle dynamo. The underlying physical priciple is called induction. Inside any type of generator, there is a fundamental aspect of electromagnetism at work. Whenever a charged particle is exposed to a magnetic field, it experiences a force if it either **moves** relative to the magnetic field or the magnetic field **changes** in magnitude.
 
-[...] But what kind of energy is needed? Well that depends on the method used to separate the charges. [...]
+This can be accomplished in multiple ways. One of them is to rotate a coil of copper wire inside a constant magnetic field. The bicycle dynamo for instance has an inverse configuration: a permanent magnet revolves around a stationary coil.
 
 ### Conclusion
-So inside a voltage source electrons are separated and moved against the electric field. One **difference** between pumping water uphill against the gravity field is, that they bring their **own** field with them. One **similarity** is that it **takes** energy to do it. Once done and a current flows through a circuit, the voltage source **provides** energy.
+<!--So inside a voltage source electrons are separated and moved against the electric field. One **difference** between pumping water uphill against the gravity field is, that they bring their **own** field with them. One **similarity** is that it **takes** energy to do it. Once done and a current flows through a circuit, the voltage source **provides** energy.-->
 
 In a voltage source, the electrons are separated and moved against the electric field. One **difference** to water, which is pumped uphill against the gravitational field, is that the electrons bring their own field with them. One **similarity** is that energy is **required** for this. As soon as the electrons are constantly separated and a current flows through a circuit, the voltage source **supplies** energy to the circuit. Hence, it is an energy source that delivers electric energy.
 
-We can now draw two general conclusions: Firstly, every energy source simultaneously **takes** in and **delivers** energy. And secondly, the energy taken in is converted into the energy delivered. Every real energy **source** is therefore an energy **converter**.
+We can now draw two general conclusions: Firstly, every energy source **takes** in and **delivers** energy at the same time. And secondly, the energy taken in is converted into the energy delivered. Every real energy **source** is therefore an energy **converter**.
 
+The electric source of course delivers electricity. The type of energy it converts into electricity depends on the method of charge separation. The dynamo requires mechanical power, the solar panel needs light and the thermo element needs heat. The battery is a little different for it is electrically charged before it can deliver electricity. 
 
 ## Types of Sources
 A **pump** can be designed in certain ways. Let's take a **hand-operated** pump for instance. It pumps water as long as I **turn** the **crank**. There is no **control** over **pressure** or **flow** of any kind. Of course flow rate and pressure **depend** on how **hard** I crank it. And that is just a **casual** for how much **power** I apply. But I do not keep track of one or the other.

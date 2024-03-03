@@ -51,7 +51,16 @@ We have already talked about electrical conductors in Lecture 1. In a copper wir
 As mentioned earlier,  we will then observe an **outer** electric field that **counteracts** this **imbalance** and tries to distribute the electrons evenly again. If we maintain that imbalance and connect an extermnal circuit, we crate a path for the electrons to escape from that area of increased charge density. The electric field will spread across the wires and drag the electrons towards the region of lower charge density which corresponds to the opposite pole of the voltage source. A current flows through our circuit!
 
 ### Methods of Charge Separation
-Gloss over briefly
+<!--Gloss over briefly-->
+But how can electric charges be seperatet after all? There are multiple physical effects that influcence electrons inside of a conductor and even in free space. I will gloss over the most common and give some examples of practical application.
+
+> * Induction (electric generator)
+> * Photo-electric effect (solar panel)
+> * Thermoelectric effect (temperature sensor, nuclear battery)
+> * Electrochemical reactions (battery)
+
+#### Induction
+bicycle dynamo
 
 [...] But what kind of energy is needed? Well that depends on the method used to separate the charges. [...]
 
@@ -60,7 +69,7 @@ So inside a voltage source electrons are separated and moved against the electri
 
 In a voltage source, the electrons are separated and moved against the electric field. One **difference** to water, which is pumped uphill against the gravitational field, is that the electrons bring their own field with them. One **similarity** is that energy is **required** for this. As soon as the electrons are constantly separated and a current flows through a circuit, the voltage source **supplies** energy to the circuit. Hence, it is an energy source that delivers electric energy.
 
-We can now draw two general conclusions: Firstly, every energy source simultaneously takes in and delivers energy. And secondly, the energy taken in is converted into the energy delivered. Every real energy source is therefore an energy converter.
+We can now draw two general conclusions: Firstly, every energy source simultaneously **takes** in and **delivers** energy. And secondly, the energy taken in is converted into the energy delivered. Every real energy **source** is therefore an energy **converter**.
 
 
 ## Types of Sources

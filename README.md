@@ -5,7 +5,7 @@
 * Tue 06.Feb 2024 - **Topic:** Voltage sources - what they really are.
 
 **Upcoming Lecture Dates:**
-* Tue 05.Mar 2024 - **Topic:** Resistors, Current and *Ohm's Law* - let's get practical!
+* Fri 08.Mar 2024 - **Topic:** Resistors, Current and *Ohm's Law* - let's get practical!
 * Tue 12.Mar 2024 - **Topic:** Parallel Resistors and *Kirchhoff's Voltage Law* - let's keep it practical.
 * Tue 02.Apr 2024 - **Topic:** Diodes ~ let's get non-linear.
 

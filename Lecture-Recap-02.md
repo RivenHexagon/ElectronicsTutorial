@@ -44,7 +44,7 @@ How can all of this be applied to electrons? In fact, the electrons have to be m
 
 ### Electrons in Wires
 The moment we separate the electrons in our voltage source, an electric field appears at its terminals. But where does it emerge from? Charged particles, such as our negatively charged electrons, are **always** surrounded by an electric field that is directed radially outwards from the particle, just like light rays emanating from a light source.
-*
+
 In any electrical conductor, such as a copper wire, the electrons are already present and fill the space between the copper atoms. They can move relatively freely. As they are always surrounded by their own electric field, they influence each other due to the fact that every electron is always in the field of every other electron in its vicinity. Therefore, they spread evenly, almost like an electron gas, because particles with the same charge repel each other. But they will not perform any directed movement, **unless** we create an **imbalance** in their **spatial distribution**. And this is essentially what is meant by separation of charge.
 
 ### The Origin of Electric Current
@@ -74,8 +74,6 @@ This can be accomplished in multiple ways. One of them is to rotate a coil of co
 [...]
 
 ## Conclusion
-<!--So inside a voltage source electrons are separated and moved against the electric field. One **difference** between pumping water uphill against the gravity field is, that they bring their **own** field with them. One **similarity** is that it **takes** energy to do it. Once done and a current flows through a circuit, the voltage source **provides** energy.-->
-
 In a voltage source, the electrons are separated and moved against the electric field. One **difference** to water, which is pumped uphill against the gravitational field, is that the electrons bring their own field with them. One **similarity** is that energy is **required** for this. As soon as the electrons are constantly separated and a current flows through a circuit, the voltage source **supplies** electric energy to the circuit.
 
 The **type** of energy it converts into electricity depends on which method of charge separation is used. The dynamo requires **mechanical** power, the solar panel needs **light** and the thermo element needs **heat**. The battery is a little different for it is electrically charged before it can deliver electricity. 

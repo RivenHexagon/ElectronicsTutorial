@@ -4,7 +4,7 @@ One of the main takeaways of the previous lecture was the chain of cause and act
 ## [A]
 The flow model of a water circuit can help explaining once again. We determined the pressure created by a pump in a water circuit as a propper equivalent to a source voltage. The resulting water flow causes a drop in pressure along the pipes and across a water wheel. We identified this pressure drops as equivalent to the voltage drops across electric resistors. It is therefore obvious that the water **flow** corrensponds to the electric **current**.
 
-Water flow is usually defined as the throughput of **volume** per unit **time**. If we choose the **count** of water **molecules** instead we get pretty close to the definition of the electric current. It is measured in ***Ampere***, named after french physicsist *André-Marie Ampère* (1775-1836). One Ampere is defined as a lot of electrons per second. Or $6.2\times10^{18} \frac{e^-}{s} = 6200000000000000000 \frac{e^-}{s}$ to be more precise.
+Water flow is usually defined as the throughput of **volume** per unit **time**. If we choose the **count** of water **molecules** instead we get pretty close to the definition of the electric current. It is measured in ***Ampere***, named after french physicsist *André-Marie Ampère* (1775-1836). One Ampere (1A) is defined as a lot of electrons per second. Or $6.2\times10^{18} \frac{e^-}{s} = 6200000000000000000 \frac{e^-}{s}$ to be more precise.
 
 As stated earlier, every conductive material already comes with electrons that fill the space between the atoms of the material. Copper has about $8.4\times10^{22}$ free electrons per cubic centimeter. "Free electrons" is not to be confused with such a thing as "free beer" - yet they don't cost any money *but* they are certainly not free of charge! Because in chemistry it is the charge of the outer electrons of atoms that binds them when they form molecules or the atomic lattice of metals. A copper wire, for instance, consists of copper atoms that are arranged like in a crystal.
 
@@ -15,13 +15,14 @@ $$8.4\times10^{22}e^- - 6.2\times10^{18} \frac{e^-}{s} \cdot 1s = 8.39938\times1
 Only about 0.1 permille were missing. What that would do to the copper cube and it's environment is subject to your own research. You will be surprised.
 
 ## $\Omega$
- Tungsten is a preferred material for classic light bulb filaments. Its density of free electrons is around $6.3\times10^{22}\frac{e^-}{cm^3}$. But its electrical resistance is more than three times that of copper. Light bulb fimanets usually draw just a few milliamps of current. One milliampere (mA) is $\frac{1}{1000}$ of an amp or $1\times10^{-3} A$. 
+ Tungsten is a preferred material for classic light bulb filaments. Its density of free electrons is around $6.3\times10^{22}\frac{e^-}{cm^3}$. But its electrical resistance is more than three times that of copper. Light bulb fimanets usually draw just a few Milliamps of current. One mMlliampere (mA) is $\frac{1}{1000}$ of an Amp or $1\times10^{-3} A$. 
  
- Let us now go back in time for about 100 years and say a manufacturer for light bulbs is in the design process for a new bulb. The brightness of the filament depends on the current that flows through it and its diameter. Or would you expect a rod of thungsten as thick as your finger to glow with just a few milliamps?
+ Let us now go back in time for about 100 years and say a manufacturer for light bulbs is in the design process for a new bulb for a battery driven handlamp. The brightness of the filament depends on the current that flows through it - and its diameter. Or would you expect a rod of thungsten as thick as your finger to glow with just a few milliamps of current? The manufacturer tries to make the filament as thin as possible in order to decrease the current, which in turn increases the battery life.
+ 
+ We can define the **resistance** of the filament as the **amount** of **voltage** needed to **drive** a certain **current** that corresponds to the desired brightness. The electrical resistance is measured in Ohms and one Ohm ($1 \Omega$) is defined as one Volt per Ampere.
 
- The light bulb is meant to be used in a battery driven handlamp. Hence, the manufacturer tries to make the filament as thin as possible to decrease the current which in turn increases the battery life.
-
- Now we can define the **resistance** as the **amount** of **voltage** needed to **drive** a certain **current** that corresponds to the desired brightness!
+### Experiment #1
+ Our first experiment gives us some real life values to work with: In this we connected a **light bulb** to a variable laboratory **power supply** unit (PSU) in **series** with an **ampere meter**. One wire connects the plus pole of the PSU with one of the current inputs of a **multi meter** (MM). These are special inputs indicated with the letters *A* and *mA*. On most MMs they are the left most inputs and are different from the right most input that measures voltages. It is indicated with the letters *V* or *mV*. The common connector of the MM (indicated *COM* and left of the voltage input) is connected with one pole of the light bulb. The other pole goes to the minus pole of the PSU. The rotary switch of the MM is set to the 200 mA range.
 
 ## Filament Resistance
 <!--Electrons inside a wire are like dogs beeing dragged on a leash from tree to tree.-->

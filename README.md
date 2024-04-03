@@ -4,15 +4,16 @@
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.
 * Tue 06.Feb 2024 - **Topic:** L02 - Voltage sources - what they really are.
 * Fri 08.Mar 2024 - **Topic:** L03 - Resistors, Current and *Ohm's Law* - let's get practical!
+* Fri 22.Mar 2024 - **Topic:** L04 - Voltage Divider
 
 **Upcoming Lecture Dates:** (18:00 - 19:30)
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
-* Fri 22.Mar 2024 - **Topic:** L04 - Parallel Resistors and *Kirchhoff's Current Law* - let's keep it practical.
-* Sun 07.Apr 2024 - **Topic:** L05 - Energy and Power - so powerfull!
-* Sun 14.Apr 2024 - **Topic:** L06 - Diodes ~ let's get non-linear.
-* Sun 21.Apr 2024 - **Topic:** 
-* Sun 05.May 2024 - **Topic:**
+
+* Sun 07.Apr 2024 - **Topic:** L05 - Parallel Resistors and Kirchhoff's Current Law - let's keep it practical.
+* Sun 14.Apr 2024 - CANCELLED
+* Sun 21.Apr 2024 - **Topic:** L06 - Energy and Power - so powerfull!
+* Sun 05.May 2024 - **Topic:** L07 - Diodes ~ let's get non-linear. 
 * Sun 12.May 2024 - **Topic:**
 * Sun 26.May 2024 - **Topic:**
 * ...

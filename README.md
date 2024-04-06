@@ -11,9 +11,9 @@
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
 * Sun 07.Apr 2024 - **Topic:** L05 - Parallel Resistors and Kirchhoff's Current Law - let's keep it practical.
-* Sun 14.Apr 2024 - CANCELLED
-* Sun 21.Apr 2024 - **Topic:** L06 - Energy and Power - so powerfull!
-* Sun 05.May 2024 - **Topic:** L07 - Diodes ~ let's get non-linear. 
+* Sun 14.Apr 2024 - **Topic:** L06 - Energy and Power - so powerfull!
+* Sun 21.Apr 2024 - **Topic:** L07 - Diodes ~ let's get non-linear.
+* Sun 05.May 2024 - **Topic:**
 * Sun 12.May 2024 - **Topic:**
 * Sun 26.May 2024 - **Topic:**
 * ...

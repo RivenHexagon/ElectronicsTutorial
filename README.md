@@ -14,7 +14,7 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 * Sun 14.Apr 2024 - **Topic:** L06 - Energy and Power - so powerfull!
 * Sun 21.Apr 2024 - **Topic:** L07 - Diodes ~ let's get non-linear.
 * Sun 12.May 2024 - **Topic:**
-* Sun 26.May 2024 - **Topic:**
+* Sun 02.Jun 2024 - **Topic:**
 * ...
 
 ## Understanding Electronics

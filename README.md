@@ -25,4 +25,5 @@ But is that enough? From my experience, to know **when** to **apply** such a **r
 The **aim** of these **lectures** is to **provide** a solid **foundation**, teach the **tools** and help **build** this **intuition** that gives you the **confidence** to **master** your own **projects**. Practical **application** is in the **foreground** and a permanent companion throughout the sessions.
 
 ## Resources
+https://www.falstad.com/circuit/
 https://cryptpad.disroot.org/kanban/#/2/kanban/edit/I6wr-OorrGaiOrH5qbMahDfa/

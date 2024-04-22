@@ -5,14 +5,15 @@
 * Tue 06.Feb 2024 - **Topic:** L02 - Voltage sources - what they really are.
 * Fri 08.Mar 2024 - **Topic:** L03 - Resistors, Current and *Ohm's Law* - let's get practical!
 * Fri 22.Mar 2024 - **Topic:** L04 - Voltage Divider
+* Sun 07.Apr 2024 - CANCELLED
+* Sun 14.Apr 2024 - **Topic:** L05 - Voltage Divider - reloaded
+* Sun 21.Apr 2024 - **Topic:** L06 - The Parallel Circuit - the power of parallelization
 
 **Upcoming Lecture Dates:** (18:00 - 19:30)
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
-* Sun 07.Apr 2024 - CANCELLED 
-* Sun 14.Apr 2024 - **Topic:** L06 - Energy and Power - so powerfull!
-* Sun 21.Apr 2024 - **Topic:** L07 - Diodes ~ let's get non-linear.
+* Sun 05.May 2024 - **Topic:** L07 - Energy and Power - let there be (LED) light
 * Sun 12.May 2024 - **Topic:**
 * Sun 02.Jun 2024 - **Topic:**
 * ...

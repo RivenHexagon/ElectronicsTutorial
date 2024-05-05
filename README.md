@@ -16,7 +16,10 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 * Sun 05.May 2024 - **Topic:** L07 - Energy and Power - let there be (LED) light
 * Sun 12.May 2024 - **Topic:**
 * Sun 02.Jun 2024 - **Topic:**
-* ...
+* Sun 23.Jun 2024 - **Topic:**
+* Sun 30.Jun 2024 - **Topic:**
+* Sun 21.Jul 2024 - **Topic:**
+* Sun 28.Jul 2024 - **Topic:**
 
 ## Understanding Electronics
 Most people I have met, including lecturers at universities, define the understanding of electronics as the **sum** of certain **rules** and **laws**, such as *Kirchhoff's circuit laws* or *Ohm's law*, where the latter can be seen as the E=mc<sup>2</sup> of electronics.

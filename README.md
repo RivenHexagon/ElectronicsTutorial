@@ -13,9 +13,9 @@
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
-* Sun 05.May 2024 - **Topic:** L07 - Energy and Power - let there be (LED) light
-* Sun 12.May 2024 - **Topic:**
-* Sun 02.Jun 2024 - **Topic:**
+* Sun 12.May 2024 - CANCELLED
+* Sun 26.May 2024 - MAYBE
+* Sun 02.Jun 2024 - **Topic:** L07 - Energy and Power - let there be (LED) light
 * Sun 23.Jun 2024 - **Topic:**
 * Sun 30.Jun 2024 - **Topic:**
 * Sun 21.Jul 2024 - **Topic:**

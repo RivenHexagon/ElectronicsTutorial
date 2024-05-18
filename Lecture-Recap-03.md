@@ -8,38 +8,49 @@ Water flow is usually defined as the throughput of **volume** per unit **time**.
 
 As stated earlier, every conductive material already comes with electrons that fill the space between the atoms of the material. Copper has about $8.4\times10^{22}$ free electrons per cubic centimeter. "Free electrons" is not to be confused with such a thing as "free beer" - yet they don't cost any money *but* they are certainly not free of charge! Because in chemistry it is the charge of the outer electrons of atoms that binds them when they form molecules or the atomic lattice of metals. A copper wire, for instance, consists of copper atoms that are arranged like in a crystal.
 
-It is those electrons that are available for electric conductivity. In a metallic lattice they maintain only a week bond with the atoms they orbit. Once an outer electric field is applied, they come lose and jump relatively freely from one atom to the next. But it is only a small fraction of electrons that participate in an electric current. Take copper for instance. If we were able to "drain" one Ampere for one second from one cubic centimeter of copper, we still had left
+And it is those electrons that are available for electric conductivity. In a metallic lattice they maintain only a week bond with the atoms they orbit. Once an outer electric field is applied, they come lose and jump relatively freely from one atom to the next. But it is only a small fraction of electrons that participate in an electric current. Take copper for instance. If we were able to "drain" one Ampere for one second from one cubic centimeter of copper, we still had left
 
 $$8.4\times10^{22}e^- - 6.2\times10^{18} \frac{e^-}{s} \cdot 1s = 8.39938\times10^{22}e^-$$
 
-Only about 0.1 permille were missing. What that would do to the copper cube and it's environment is subject to your own research. You will be surprised.
+Only about 0.1 permille was missing. What that would do to the copper cube and it's environment is subject to your own research. You will be surprised.
 
 ## $\Omega$
- Tungsten is a preferred material for classic light bulb filaments. Its density of free electrons is around $6.3\times10^{22}\frac{e^-}{cm^3}$. But its electrical resistance is more than three times that of copper. Light bulb fimanets usually draw just a few Milliamps of current. One mMlliampere (mA) is $\frac{1}{1000}$ of an Amp or $1\times10^{-3} A$. 
+ Tungsten is a preferred material for classic light bulb filaments. Its density of free electrons is around $6.3\times10^{22}\frac{e^-}{cm^3}$. But its electrical resistance is more than three times that of copper. Light bulb fimanets usually draw just a few milliamps of current. One milliampere (mA) is $\frac{1}{1000}$ of an amp or $1\times10^{-3} A$. 
  
- Let us now go back in time for about 100 years and say a manufacturer for light bulbs is in the design process for a new bulb for a battery driven handlamp. The brightness of the filament depends on the current that flows through it - and its diameter. Or would you expect a rod of thungsten as thick as your finger to glow with just a few milliamps of current? The manufacturer tries to make the filament as thin as possible in order to decrease the current, which in turn increases the battery life.
+ Let us now go back in time for about 100 years and say a manufacturer for light bulbs is in the design process for a new bulb for a battery driven hand lamp. The brightness of the filament depends on the current that flows through it - and its diameter. Or would you expect a rod of tungsten as thick as your finger to glow with just a few milliamps of current? The manufacturer tries to make the filament as thin as possible in order to decrease the current, which in turn increases the battery life.
  
  We can define the **resistance** of the filament as the **amount** of **voltage** needed to **drive** a certain **current** that corresponds to the desired brightness. The electrical resistance is measured in Ohms and one Ohm ($1 \Omega$) is defined as one Volt per Ampere.
 
+ [physical definition here or later?]
+
 ### Experiment #1
- Our first experiment gives us some real life values to work with: In this we connected a **light bulb** to a variable laboratory **power supply** unit (PSU) in **series** with an **ampere meter**. One wire connects the plus pole of the PSU with one of the current inputs of a **multi meter** (MM). These are special inputs indicated with the letters *A* and *mA*. On most MMs they are the left most inputs and are different from the right most input that measures voltages. It is indicated with the letters *V* or *mV*. The common connector of the MM (indicated *COM* and left of the voltage input) is connected with one pole of the light bulb. The other pole goes to the minus pole of the PSU. The rotary switch of the MM is set to the 200 mA range.
+ Our first experiment will provide us with some real life data to work with: In this we connected a **light bulb** to a variable laboratory **power supply** unit (PSU) in **series** with an **ampere meter**. One wire connects the plus pole of the PSU with one of the current inputs of a **multi meter** (MM). These are special inputs indicated with the letters *A* and *mA*. On most MMs they are the left most inputs and are different from the right most input that measures voltages. It is indicated with the letters *V* or *mV*. The common connector of the MM (indicated *COM* and left of the voltage input) is connected with one pole of the light bulb. The other pole goes to the minus pole of the PSU. The rotary switch of the MM is set to the 200 mA range.
 
 ## Filament Resistance
 <!--Electrons inside a wire are like dogs beeing dragged on a leash from tree to tree.-->
-::: mermaid
+```mermaid
 xychart-beta
     title "Filament Voltage vs. Current"
     x-axis "Current [mA]" [0, 8, 14, 26, 32, 37]
     y-axis "Voltage [V]" 0 --> 25
     line [0, 1, 5, 10, 16, 22]
-:::
-::: mermaid
+```
+```mermaid
+xychart-beta
+    title "LED Voltage vs. Current"
+    x-axis "Voltage [V]" [1.6, 1.7, 1.8, 1.85, 1.9, 1.95, 2.0, 2.05]
+    y-axis "Current [mA]" 0 --> 10
+    line [0, 0.1, 0.6, 1.5, 2.8, 4.7, 6.9, 9.9]
+```
+
+
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-:::
+```
 
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$

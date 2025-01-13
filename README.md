@@ -1,5 +1,14 @@
 # Riven's Lectures on Electronics
 ### Free Knowledge for Free People
+
+ 
+Lectrue **restart** from scratch (**default time**: Sunday 18:00 - 19:30, weekly)<br>
+<br>
+**Upcoming Lecture Dates:**
+* Sun 23.Mar 2025 - **Topic:** L25.01 - **Energy** (not the drinks) - all you need to know about.
+
+Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
+
 **Previous Lecture Dates:**
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.
 * Tue 06.Feb 2024 - **Topic:** L02 - Voltage sources - what they really are.
@@ -8,11 +17,6 @@
 * Sun 07.Apr 2024 - CANCELLED
 * Sun 14.Apr 2024 - **Topic:** L05 - Voltage Divider - reloaded
 * Sun 21.Apr 2024 - **Topic:** L06 - The Parallel Circuit - the power of parallelization
-
-**Upcoming Lecture Dates:** (18:00 - 19:30)
-
-Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
-
 * Sun 12.May 2024 - CANCELLED
 * Sun 26.May 2024 - MAYBE
 * Sun 02.Jun 2024 @ 16:00 - **Topic:** L07 - Energy and Power - let there be (LED) light

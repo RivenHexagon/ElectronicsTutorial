@@ -4,8 +4,6 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) |
-| Sun 06.Apr 2025 | --- | NO LECTURE |
 | Sun 13.Apr 2025 | L25.03 | |
 | Sun 20.Apr 2025 | --- | NO LECTURE |
 | Sun 27.Apr 2025 | L25.04 | |
@@ -16,6 +14,7 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 ### Previous Lecture Dates 2025:
 |Date|ID|Topic|AV Recording|
 |----|--|-----|------------|
+| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | link coming soon |
 | Sun 23.Mar 2025 | L25.01 | Energy (not the drinks) | link coming soon |
 
 ### Previous Lecture Dates 2024:

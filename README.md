@@ -4,8 +4,6 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 13.Apr 2025 | L25.03 | We'll come up with something |
-| Sun 20.Apr 2025 | --- | NO LECTURE - no Motto! |
 | Sun 27.Apr 2025 | L25.04 | Electrical Sources - Segor.de statt DigiKey.com |
 | Sun 04.May 2025 | L25.05 | Battery Capacity - got some charge? |
 
@@ -14,8 +12,10 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 ### Previous Lecture Dates 2025:
 |Date|ID|Topic|AV Recording|
 |----|--|-----|------------|
-| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | link coming soon |
 | Sun 23.Mar 2025 | L25.01 | Energy (not the drinks) | link coming soon |
+| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | link coming soon |
+| Sun 13.Apr 2025 | L25.03 | Of water pumps and *Kirchhoff's Voltage Law* | link coming soon |
+| Sun 20.Apr 2025 | --- | NO LECTURE - no birthday party | no link coming soon |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

@@ -4,6 +4,7 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
+| Sun 11.May 2025 | --- | NO LECTURE |
 | Sun 18.May 2025 | L25.06 | Parallel Circuits - combine our forces |
 | Sun 25.May 2025 | L25.07 | Battery Capacity - got some charge? 
 | Sun 18.May 2025 | L25.08 | we'll come up with something |

@@ -4,15 +4,14 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 11.May 2025 | --- | NO LECTURE |
-| Sun 18.May 2025 | L25.06 | Parallel Circuits - combine our forces |
-| Sun 25.May 2025 | L25.07 | Battery Capacity - got some charge? 
-| Sun 18.May 2025 | L25.08 | we'll come up with something |
-| Sun 01.Jun 2025 | L25.09 | we'll come up with something |
-| Sun 08.Jun 2025 | L25.10 | we'll come up with something |
-| Sun 15.Jun 2025 | L25.11 | we'll come up with something |
-| Sun 22.Jun 2025 | L25.12 | we'll come up with something |
-| Sun 29.Jun 2025 | L25.13 | we'll come up with something |
+| Sun 18.May 2025 | --- | NO LECTURE |
+| Sun 25.May 2025 | L25.06 | Parallel Circuits - combine our forces | 
+| Sun 18.May 2025 | L25.07 | Battery Capacity - got some charge? |
+| Sun 01.Jun 2025 | L25.08 | we'll come up with something |
+| Sun 08.Jun 2025 | L25.09 | we'll come up with something |
+| Sun 15.Jun 2025 | L25.10 | we'll come up with something |
+| Sun 22.Jun 2025 | L25.11 | we'll come up with something |
+| Sun 29.Jun 2025 | L25.12 | we'll come up with something |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 

@@ -4,11 +4,10 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 01.Jun 2025 | L25.06 | Parallel Circuits - combined forces? |
-| Sun 08.Jun 2025 | L25.09 | we'll come up with something |
-| Sun 15.Jun 2025 | L25.10 | we'll come up with something |
-| Sun 22.Jun 2025 | L25.11 | we'll come up with something |
-| Sun 29.Jun 2025 | L25.12 | we'll come up with something |
+| Sun 08.Jun 2025 | --- | NO LECTURE |
+| Sun 15.Jun 2025 | L25.07 | we'll come up with something |
+| Sun 22.Jun 2025 | L25.08 | we'll come up with something |
+| Sun 29.Jun 2025 | L25.09 | we'll come up with something |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
@@ -21,6 +20,7 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 | Sun 20.Apr 2025 | --- | NO LECTURE - no birthday party | no link coming soon |
 | Sun 27.Apr 2025 | L25.04 | LED and dropping resistors - LED there be light | link coming soon |
 | Sun 04.May 2025 | L25.05 | Light bulb and dropping resistors - the glow in the dark | link coming soon |
+| Sun 01.Jun 2025 | L25.06 | Parallel Circuits - combined forces? | link coming soon |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

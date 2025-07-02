@@ -8,7 +8,7 @@ Make **finances** work **first** and **build** the future use of the rooms **aro
 * Keep a **lobby area** in the rooms of **G16** to support this.
 * I'd like to introduce *Soziokratie 3.0* as a **decision** finding **tool** that leaves no one/voice behind..
 
-## Values the needs and offers of our members (AVX)
+## Values the needs and offers of our members
 One example:
 * **Tina** offers the **night shift**. 
 * She prefers to have the audio equipment of the **AVX** around.

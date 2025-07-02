@@ -6,6 +6,7 @@ Make **finances** work **first** and **build** the future use of the rooms **aro
 * Keep workshop **Textiles** and **Electronics** areas in the open.
 * It **inspires** others and fosteres **communication**. Members work **among others** and not isolated.
 * Keep a **lobby area** in the rooms of **G16** to support this.
+* I'd like to introduce *Soziokratie 3.0* as a **decision** finding **tool** that leaves no one/voice behind..
 
 ## Values the needs and offers of our members (AVX)
 One example:

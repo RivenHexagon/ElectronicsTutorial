@@ -13,15 +13,16 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 ### Previous Lecture Dates 2025:
 |Date|ID|Topic|AV Recording|
 |----|--|-----|------------|
-| Sun 23.Mar 2025 | L25.01 | Energy (not the drinks) | link coming soon |
-| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | link coming soon |
-| Sun 13.Apr 2025 | L25.03 | Of water pumps and *Kirchhoff's Voltage Law* | link coming soon |
+| Sun 23.Mar 2025 | L25.01 | Energy (not the drinks) | [link](https://clip.place/w/nSMAJdqocMBTQqquqBf2n9) |
+| Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | [link](https://clip.place/w/28v9xA5Ec4uxgNrhbAXhdz) |
+| Sun 13.Apr 2025 | L25.03 | Of water pumps and *Kirchhoff's Voltage Law* | [link](https://clip.place/w/6DExaR6P1f7LdHFk21FMyA) |
 | Sun 20.Apr 2025 | --- | NO LECTURE - no birthday party | no link coming soon |
-| Sun 27.Apr 2025 | L25.04 | LED and dropping resistors - LED there be light | link coming soon |
-| Sun 04.May 2025 | L25.05 | Light bulb and dropping resistors - the glow in the dark | link coming soon |
-| Sun 01.Jun 2025 | L25.06 | Parallel Circuits - combined forces? | link coming soon |
+| Sun 27.Apr 2025 | L25.04 | LED and dropping resistors - LED there be light | [link](https://clip.place/w/gYh2rssZSpFtUpxkW15Dfx) |
+| Sun 04.May 2025 | L25.05 | Light bulb and dropping resistors - the glow in the dark | [link](https://clip.place/w/tjgfb9FVJaLR4ETwdWRUPo) |
+| Sun 01.Jun 2025 | L25.06 | Parallel Circuits - combined forces? | [link](https://clip.place/w/nPhcMHQM3RFftXwFmGJgVY) |
 | Sun 15.Jun 2025 | L25.07 | Two LEDs and a dropping resistor | no recording |
-| Sun 22.Jun 2025 | L25.08 | Serial, parallel and mixed circuits | link coming soon |
+| Sun 22.Jun 2025 | L25.08 | Serial, parallel and mixed circuits | [link](https://clip.place/w/3qsLSZKfYpMgsi6nMaRpjL) |
+| Sun 29.Jun 2025 | L25.09 | AC Circuits | [link](https://clip.place/w/1SxpufiU4bDCiAwA6SrGKf) |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

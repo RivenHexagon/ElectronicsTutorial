@@ -4,9 +4,8 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 29.Jun 2025 | L25.09 | AC Circuits |
 | SUMMER BREAK    | ---    | Sunblocker SPF 50 |
-| Sun 01.Aug.2025 | L25.10 | A first Practical **Project** |
+| Sun 10.Aug.2025 | L25.10 | A first Practical **Project** |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
@@ -16,28 +15,23 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 | Sun 23.Mar 2025 | L25.01 | Energy (not the drinks) | [link](https://clip.place/w/nSMAJdqocMBTQqquqBf2n9) |
 | Sun 30.Mar 2025 | L25.02 | Energy Sources (caffeine-free ) | [link](https://clip.place/w/28v9xA5Ec4uxgNrhbAXhdz) |
 | Sun 13.Apr 2025 | L25.03 | Of water pumps and *Kirchhoff's Voltage Law* | [link](https://clip.place/w/6DExaR6P1f7LdHFk21FMyA) |
-| Sun 20.Apr 2025 | --- | NO LECTURE - no birthday party | no link coming soon |
 | Sun 27.Apr 2025 | L25.04 | LED and dropping resistors - LED there be light | [link](https://clip.place/w/gYh2rssZSpFtUpxkW15Dfx) |
 | Sun 04.May 2025 | L25.05 | Light bulb and dropping resistors - the glow in the dark | [link](https://clip.place/w/tjgfb9FVJaLR4ETwdWRUPo) |
 | Sun 01.Jun 2025 | L25.06 | Parallel Circuits - combined forces? | [link](https://clip.place/w/nPhcMHQM3RFftXwFmGJgVY) |
 | Sun 15.Jun 2025 | L25.07 | Two LEDs and a dropping resistor | no recording |
 | Sun 22.Jun 2025 | L25.08 | Serial, parallel and mixed circuits | [link](https://clip.place/w/3qsLSZKfYpMgsi6nMaRpjL) |
-| Sun 29.Jun 2025 | L25.09 | AC Circuits | [link](https://clip.place/w/1SxpufiU4bDCiAwA6SrGKf) |
+| Sun 29.Jun 2025 | L25.09 | AC Circuits (without air condition) | [link](https://clip.place/w/1SxpufiU4bDCiAwA6SrGKf) |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.
 * Tue 06.Feb 2024 - **Topic:** L02 - Voltage sources - what they really are.
 * Fri 08.Mar 2024 - **Topic:** L03 - Resistors, Current and *Ohm's Law* - let's get practical!
 * Fri 22.Mar 2024 - **Topic:** L04 - Voltage Divider
-* Sun 07.Apr 2024 - CANCELLED
+* Sun 07.Apr 2024
 * Sun 14.Apr 2024 - **Topic:** L05 - Voltage Divider - reloaded
 * Sun 21.Apr 2024 - **Topic:** L06 - The Parallel Circuit - the power of parallelization
-* Sun 12.May 2024 - CANCELLED
-* Sun 26.May 2024 - MAYBE
 * Sun 02.Jun 2024 @ 16:00 - **Topic:** L07 - Energy and Power - let there be (LED) light
-* Sun 23.Jun 2024 - CANCELLED
-* Sun 30.Jun 2024 - **Topic:**
-* Sun 21.Jul 2024 - CANCELLED
+* Sun 30.Jun 2024
 * SUMMER BREAK - restart with L01 after
 
 ## Understanding Electronics

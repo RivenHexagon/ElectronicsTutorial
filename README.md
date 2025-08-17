@@ -5,7 +5,7 @@
 |Date|ID|Topic|
 |----|--|-----|
 | SUMMER BREAK    | ---    | Sunblocker SPF 50 |
-| Sun 10.Aug.2025 | L25.10 | A first Practical **Project** |
+| Sun 24.Aug.2025 | L25.10 | A first Practical **Project** |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 

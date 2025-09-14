@@ -4,8 +4,7 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| SUMMER BREAK    | ---    | Sunblocker SPF 50 |
-| Sun 24.Aug.2025 | L25.10 | A first Practical **Project** |
+| Sun 21.Sep.2025 | L25.11 | Transistor practical lesson |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
@@ -21,6 +20,8 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 | Sun 15.Jun 2025 | L25.07 | Two LEDs and a dropping resistor | no recording |
 | Sun 22.Jun 2025 | L25.08 | Serial, parallel and mixed circuits | [link](https://clip.place/w/3qsLSZKfYpMgsi6nMaRpjL) |
 | Sun 29.Jun 2025 | L25.09 | AC Circuits (without air condition) | [link](https://clip.place/w/1SxpufiU4bDCiAwA6SrGKf) |
+| Sun 24.Aug.2025 | L25.10 | Transistor | no recording |
+| Sun 24.Aug.2025 | L25.10 | Transistor rerun | link coming soon |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

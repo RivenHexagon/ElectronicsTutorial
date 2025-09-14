@@ -24,7 +24,7 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 | Sun 22.Jun 2025 | L25.08 | Serial, parallel and mixed circuits | [link](https://clip.place/w/3qsLSZKfYpMgsi6nMaRpjL) |
 | Sun 29.Jun 2025 | L25.09 | AC Circuits (without air condition) | [link](https://clip.place/w/1SxpufiU4bDCiAwA6SrGKf) |
 | Sun 24.Aug.2025 | L25.10 | Transistor | no recording |
-| Sun 24.Aug.2025 | L25.10 | Transistor rerun | link coming soon |
+| Sun 24.Aug.2025 | L25.10 | Transistor re-run | [link](https://clip.place/w/6WFTkmrDKhgTyCmzjLEG9k) |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

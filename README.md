@@ -5,6 +5,9 @@
 |Date|ID|Topic|
 |----|--|-----|
 | Sun 21.Sep.2025 | L25.11 | Transistor practical lesson |
+| Sun 12.Oct.2025 | L25.12 | something new |
+| Sun 19.Oct.2025 | L25.13 | something new |
+| Sun 26.Oct.2025 | L25.14 | something new |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 

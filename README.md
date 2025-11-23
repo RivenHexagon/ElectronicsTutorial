@@ -4,9 +4,7 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 16.Nov.2025 | L25.12 | something new |
-| Sun 23.Nov.2025 | L25.13 | something new |
-| Sun 30.Nov.2025 | L25.14 | something new |
+| Sun 18.Jan.2026 | L26.01 | Restart with Basics |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
@@ -25,6 +23,7 @@ Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calen
 | Sun 24.Aug.2025 | L25.10 | Transistor | no recording |
 | Sun 07.Aug.2025 | L25.10 | Transistor re-run | [link](https://clip.place/w/6WFTkmrDKhgTyCmzjLEG9k) |
 | Sun 21.Sep.2025 | L25.11 | Transistor practical lesson | link coming soon |
+| Sun 23.Nov.2025 | L25.12 | Voltage Regulators | link coming soon |
 
 ### Previous Lecture Dates 2024:
 * Tue 23.Jan 2024 - **Topic:** L01 - Of water pumps and *Kirchhoff's Voltage Law*.

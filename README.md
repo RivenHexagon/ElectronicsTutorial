@@ -4,7 +4,7 @@
 ### Upcoming Lecture Dates:
 |Date|ID|Topic|
 |----|--|-----|
-| Sun 18.Jan.2026 | L26.01 | Restart with Basics |
+| Mid March 2026 | L26.01 | Restart with Basics |
 
 Please check out the [xHain](https://x-hain.de/de/calendar/#content "xHain calendar") calendar before!
 
